@@ -44,9 +44,9 @@ The architecture of the mini honeynet in Azure consists of the following compone
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
 <br>
-| Start Time 2024-04-13 13:53:48
+| Start Time 2025-10-05 13:53:48
 <br>
-| Stop Time 2024-04-14 13:53:48
+| Stop Time 2024-04-06 13:53:48
 
 | Metric                   | Count
 | ------------------------ | -----
